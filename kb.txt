@@ -1,0 +1,10 @@
+CODTECH Internship Task-3: AI Chatbot with NLP.
+Build a chatbot using natural language processing libraries like NLTK or spaCy, capable of answering user queries.
+Deliverable: A Python script and a working chatbot.
+Use NLTK for tokenization, stopwords and simple preprocessing. Optionally use scikit-learn TfidfVectorizer for similarity.
+To run the chatbot: python run_chatbot.py
+This internship provides a completion certificate on your internship end date.
+Submission guidelines: upload code to GitHub, include README, a report, and usage instructions.
+Recommended tools: Python 3.8+, NLTK, scikit-learn (optional).
+Example topics: internship tasks, submission process, libraries, deliverables, certificates, contact information.
+Contact: For support, reach out to your internship coordinator or the CODTECH team.
